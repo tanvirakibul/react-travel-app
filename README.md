@@ -16,3 +16,5 @@ Install it and run:
 npm install
 npm run dev
 ```
+
+# Live demo of the build version: http://travel-trvl.surge.sh/
