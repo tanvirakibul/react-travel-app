@@ -7,7 +7,7 @@ This  is Travel App made using React.js
 Download the example [or clone the repo](https://github.com/mui-org/material-ui):
 
 ```sh
-git clone https://github.com/tanvirakibul/arc-development-app.git 
+https://github.com/tanvirakibul/react-travel-app.git
 ```
 
 Install it and run:
